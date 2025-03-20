@@ -1,5 +1,5 @@
 def main():
-    print("Hello from rusty-python!")
+    print("Hello from rust-in-python!")
 
 
 if __name__ == "__main__":

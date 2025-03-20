@@ -23,7 +23,7 @@ wheels = [
 ]
 
 [[package]]
-name = "rusty-python"
+name = "rust-in-python"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
